@@ -153,8 +153,15 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ds-work-list section{ padding-right: 30px; padding-bottom:60px; }
 }
 
-#carouselExample {
+.custom_carousel {
 	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	/*margin-bottom: 20px;*/
+}
+
+.custom_carousel2 {
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 50px;
