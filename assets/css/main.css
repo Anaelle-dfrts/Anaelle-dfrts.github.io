@@ -159,3 +159,8 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	margin-right: auto;
 	margin-bottom: 50px;
 }
+
+ .ds-video {
+        width: 100%;
+        height: auto;
+    }
